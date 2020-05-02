@@ -65,3 +65,18 @@ button.btn.btn-getstarted{
     font-weight: 500;
     border-radius: 5px;
 }
+
+div.row.num{
+    font-size: 48px;
+    font-weight: 500;
+    font-style: normal;
+    padding-left: 1.5rem;
+}
+
+div.row.des{
+    font-size: 30px;
+    font-weight: normal;
+    font-style: normal;
+    padding-left: 2rem;
+    margin-top: -1rem;
+}
