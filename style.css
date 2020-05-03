@@ -79,4 +79,138 @@ div.row.des{
     font-style: normal;
     padding-left: 2rem;
     margin-top: -1rem;
+    
+}
+
+div.row.justify-content-center.border.border-black{
+    height: 900px;
+    background-color: #2A75E6;
+    margin-top: -100px;
+    position: relative;
+    z-index: -1;
+}
+
+#head-popular{
+    margin-top: 180px;
+    font-size: 58px;
+}
+
+#popular-colom{
+    margin-top: -600px;
+}
+
+
+.img-kiri{
+    margin-left: -200px;
+    margin-right: 100px;
+}
+
+.img-kanan{
+    margin-left: 100px;
+    margin-right: -200px;
+}
+
+
+
+
+.patner{
+    margin-top: 100px;
+    padding-top: 30px;
+    background-color: #ffffff;
+    height: 200px;
+}
+
+.patner-head{
+    color: #CDCDCD;
+    font-size: 55px;
+    font-weight: 500;
+}
+
+.patner-img{
+    justify-content: space-evenly;
+}
+
+
+.galery{
+    height: 700px;
+    background-color: #ffffff;
+    margin-top: 100px;
+}
+
+.register{
+    height: 750px;
+}
+
+.r-reg{
+    height: 750px;
+}
+
+
+.img-reg{
+    background-image: url(img/yunani.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 710px;
+}
+
+.reg-text{
+    text-align: center;
+    padding: 350px 0;
+    color: #ffffff;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.reg-create{
+    font-size: 54px;
+    color: #2A75E6;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.social-media{
+    margin: auto;
+    width: 50%;
+}
+
+.text-social{
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.text-reg{
+    color: #C4C4C4;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.form-edit{
+    width: 600px;
+    
+}
+
+input.form-control{
+    height: 71px;
+    font-size: 28px;
+}
+
+input.form-control::-webkit-input-placeholder{
+    color: #C4C4C4;
+}
+
+.btn-custom{
+    width: 285px;
+    height: 68px;
+    border-radius: 40px!important;
+    
+}
+
+.foot-credit{
+    color: #ffffff;
+    background-color: black;
+    font-size: 56px;
+}
+
+#love{
+    font-size: 56px;
+    color: red;
 }
